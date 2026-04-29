@@ -1,4 +1,4 @@
-<img width="1383" height="760" alt="image" src="https://github.com/user-attachments/assets/46c5f0b1-de08-48b5-a604-57ff24caf2d1" /># THMHydra
+# THMHydra
 
 ## Overview
 This is the work of Huwaina Yasmin binti Anuar Asfandi, student ID: 52215124317, class: Vulnerability Analysis: L01-B02. 
