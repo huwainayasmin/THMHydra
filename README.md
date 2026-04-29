@@ -13,7 +13,7 @@ Hydra is a fast and flexible login cracker used to brute force credentials acros
 2. Input anything into the username and password fields to let Burp intercept.
 <img width="772" height="694" alt="image" src="https://github.com/user-attachments/assets/85cbef51-77b1-490d-b8c4-74ac7282838a" />
 
-
+3. Use the underlined line for our next step
 <img width="1196" height="712" alt="image" src="https://github.com/user-attachments/assets/8619563d-91f8-4541-8c2e-739271a9520e" />
 
 <img width="1662" height="186" alt="image" src="https://github.com/user-attachments/assets/ed6283f5-a39a-4748-aea0-877d203c886b" />
