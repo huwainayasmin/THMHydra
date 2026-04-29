@@ -46,14 +46,4 @@ ssh molly@<TARGET_IP>
 10. Next, use the command 'cat' to display the contents of the 'flag2.txt' file. We will get the second flag: THM{c8eeb0468febbadea859baeb33b2541b}
 <img width="309" height="39" alt="image" src="https://github.com/user-attachments/assets/00b5301d-b4a7-4612-880d-9b340eb03b73" />
 
-
-
-
-
-
-
-   
-
-
-
-
+> I completed this room with the help of this YouTube video: https://youtu.be/8fs_7bm88GY?si=LYBvq31-q6vAOv74
