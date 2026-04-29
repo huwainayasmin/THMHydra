@@ -6,7 +6,7 @@ Hydra is a fast and flexible login cracker used to brute force credentials acros
 
 ---
 
-## Setup
+## Walk-through
 1. Start intercepting traffic in http://MACHINE_IP using Burp Suite. Make sure to use Burp's preconfigured browser, which automatically directs traffic through the proxy. Click on 'Open Browser' to use Burp's browser, and start the TryHackMe machine in Burp's browser.
 <img width="772" height="478" alt="image" src="https://github.com/user-attachments/assets/55d1b228-9f66-4249-99d1-96653a6a5fb5" />
 
